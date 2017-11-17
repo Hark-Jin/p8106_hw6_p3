@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"P8105_hw6_cz2493\"\nauthor: \"CHUHAN\"\ndate: \"11/17/2017\"\noutput: html_document\n---\n\nIn this homework, I collaborated with He Jin(hj2479)  \nOur solution for problem 3 is [here]()",
+    "created" : 1510946932388.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2796492521",
+    "id" : "DAB8ACCB",
+    "lastKnownWriteTime" : 1510946952,
+    "last_content_update" : 1510947387258,
+    "path" : "~/Desktop/data science/hw/p8105_hw6_p3/p8105_hw6_cz2493.Rmd",
+    "project_path" : "p8105_hw6_cz2493.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
