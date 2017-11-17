@@ -10,6 +10,4 @@ navbar:
     - icon: fa-github fa-lg
       href: https://github.com/Harksoul/
 output:
-   flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
+  html_document
