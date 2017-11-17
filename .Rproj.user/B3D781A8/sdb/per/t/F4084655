@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Problem 3\"\nauthor: \"He Jin & Chuhan Zhou\"\ndate: \"11/15/2017\"\n---\n\n### Data Description  \n\nIn this assignment, we used the Instacart dataset to complete analysis and draw interactive charts. **Instacart** is an online grocery service that supports online-shopping from local stores. This dataset contains 1,384,617 observations of 131,209 unique users, where each row in the dataset is a product of an order. There is a single order per user in this dataset.\n\nBelow are 15 variables in this dataset:\n\n*  order_id: order identifier  \n*  product_id: product identifier  \n*  add_to_cart_order: order in which each product was added to cart  \n*  reordered: 1 if this prodcut has been ordered by this user in the past, 0 otherwise  \n*  user_id: customer identifier  \n*  eval_set: which evaluation set this order belongs in (Note that the data for use in this class is exclusively from the ???train??? eval_set)  \n*  order_number: the order sequence number for this user (1=first, n=nth)  \n*  order_dow: the day of the week on which the order was placed  \n*  order_hour_of_day: the hour of the day on which the order was placed  \n*  days_since_prior_order: days since the last order, capped at 30, NA if order_number=1  \n*  product_name: name of the product  \n*  aisle_id: aisle identifier  \n*  department_id: department identifier  \n*  aisle: the name of the aisle  \n*  department: the name of the department  \n\n\n### Problem 1\n **The solution for problem 1 is** [here](https://harksoul.github.io/p8105_hw6_hj2479_p1/)  \n **The github repo for problem 1 is** [here](https://github.com/Harksoul/p8105_hw6_hj2479_p1/)\n\n**Comments for problem 1:**    \n \n  For the first graph, we showed the number of orders in different departments using the bar plots, which indicates that items from department produce are most frequently ordered.\n  \n  In the second graph, we changed the variable department to the aisle and made a scatterplot, thus we can find out the most popular kind of product in this dataset. And it shows that fresh fruits and fresh vegetables are the most popular aisles.\n  \n  Last graph we chose to use the boxplot to show the distribution of order time for relatively popular aisles.\n  \n  \n  \n### Problem 2   \n **The solution for problem 2 is** \n[here](http://harksoul.shinyapps.io/problem2/)  \n\n**Comments for problem 2:**  \n  \n  First in Chart A, we made a bar plot showing the distribution of the most popular products in each department. Additionally, we added a slider filter to control the number of ordered items for the different department.\n   \n  Secondly in Chart B, we compared the number of orders for different aisles in each department. In the produce department, fresh fruits and vegetables are most frequently ordered.\n \n  Last in Chart C, we intended to plot the distribution of order time for each aisle, we again used the box plot and found that Healthier snacks are usually ordered earlier in the day.\n\n### Problem 3  \n  **The github repo for problem 3** \n[here](https://github.com/Harksoul/p8106_hw6_p3)  \n",
+    "created" : 1510946690314.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3815897447",
+    "id" : "F4084655",
+    "lastKnownWriteTime" : 1510948386,
+    "last_content_update" : 1510948386082,
+    "path" : "~/Desktop/Columbia/Semester 1/DATA SCIENCE - 1/homework/p8105_hw6_p3/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
