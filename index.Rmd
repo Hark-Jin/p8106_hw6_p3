@@ -10,7 +10,7 @@ Below are 15 variables in this dataset:
 *  add_to_cart_order: order in which each product was added to cart  
 *  reordered: 1 if this prodcut has been ordered by this user in the past, 0 otherwise  
 *  user_id: customer identifier  
-*  eval_set: which evaluation set this order belongs in (Note that the data for use in this class is exclusively from the “train” eval_set)  
+*  eval_set: which evaluation set this order belongs in (Note that the data for use in this class is exclusively from the ???train??? eval_set)  
 *  order_number: the order sequence number for this user (1=first, n=nth)  
 *  order_dow: the day of the week on which the order was placed  
 *  order_hour_of_day: the hour of the day on which the order was placed  
