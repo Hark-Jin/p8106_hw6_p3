@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"p8105_hw6_problem3\"\noutput_dir: \".\"\nnavbar:\n  title: \"p8105_hw6_problem3\"\n  right:\n    - icon: fa-envelope fa-lg\n      href: mailto:<hj2479@columbia.edu>\n    - icon: fa-github fa-lg\n      href: https://github.com/Harksoul/\noutput:\n   html_document\n",
+    "created" : 1510944606485.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2187858203",
+    "id" : "2C469011",
+    "lastKnownWriteTime" : 1510944618,
+    "last_content_update" : 1510944618927,
+    "path" : "~/Desktop/data science/hw/p8105_hw6_p3/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
