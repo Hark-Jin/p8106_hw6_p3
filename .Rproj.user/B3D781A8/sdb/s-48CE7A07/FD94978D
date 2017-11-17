@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Problem 3\"\n---\n\nthe solution for problem1 is [here](https://harksoul.github.io/p8105_hw6_hj2479_p1/)\n\n",
+    "created" : 1510886242718.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "966233261",
+    "id" : "FD94978D",
+    "lastKnownWriteTime" : 1510886325,
+    "last_content_update" : 1510886325052,
+    "path" : "~/Desktop/Columbia/Semester 1/DATA SCIENCE - 1/homework/p8106_hw6_p3/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

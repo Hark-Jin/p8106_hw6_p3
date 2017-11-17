@@ -1,0 +1,6 @@
+---
+title: "Problem 3"
+---
+
+the solution for problem1 is [here](https://harksoul.github.io/p8105_hw6_hj2479_p1/)
+

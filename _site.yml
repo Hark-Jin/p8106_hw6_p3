@@ -1,0 +1,15 @@
+name: "p8105_hw6_problem1"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<hj2479@columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/Harksoul/
+output:
+   flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
