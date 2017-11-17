@@ -1,5 +1,7 @@
 ---
 title: "Problem 3"
+author: "He Jin & Chuhan Zhou"
+date: "11/15/2017"
 ---
 In this assignment, we used dataset Instacart to complete analysis and draw inteactive charts. **Instacart** is an online grocery service that supports online-shopping from local stores. The dataset contains 1,384,617 observations of 131,209 unique users, where each row in the dataset is a product from an order. There is a single order per user in this dataset.
 
